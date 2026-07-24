@@ -1,44 +1,56 @@
 <picture>
-  <img alt="header wave banner" src="https://capsule-render.vercel.app/api?type=waving&color=1E2C68&height=200&section=header&text=Halo,%20Saya%20Jeremia%20%F0%9F%91%8B&fontSize=38&fontColor=C79A3F&animation=fadeIn&fontAlignY=35" />
+  <img alt="header wave banner" src="https://capsule-render.vercel.app/api?type=waving&color=1E2C68&height=200&section=header&text=JEREMIA%20//%20FULL-STACK%20DEV&fontSize=32&fontColor=C79A3F&animation=fadeIn&fontAlignY=35" />
 </picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&pause=1000&color=1E2C68&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Founder+%40+Jstudio;Laravel+%2B+Filament+%7C+Next.js+%2B+Supabase;Bikin+Website+untuk+Skripsi+%26+Bisnis" alt="Typing SVG" />
-</p>
-
----
-
-### 👋 Tentang Saya
-
-- 🚀 Founder **Jstudio** — jasa pembuatan website untuk mahasiswa (skripsi/TA) & bisnis kecil (UMKM, cafe, firma hukum, dll)
-- 🛠️ Sehari-hari kerja pakai **Laravel + Filament**, **Next.js + Supabase**, dan sesekali **FastAPI** untuk project berbau ML
-- 🌱 Lagi eksplor sistem informasi sekolah — absensi QR, penilaian, sampai rapor otomatis
-- 📫 Kontak project: WhatsApp Business / Instagram [@Sangdevelopermuda](https://instagram.com/Sangdevelopermuda)
-
----
-
-### 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,nextjs,react,tailwind,js,mysql,figma,vscode,git&theme=light" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jstudio26&show_icons=true&hide_border=true&bg_color=F2F3F6&title_color=1E2C68&icon_color=C79A3F&text_color=5A6178" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jstudio26&layout=compact&hide_border=true&bg_color=F2F3F6&title_color=1E2C68&text_color=5A6178" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=13&pause=1200&color=1E2C68&center=true&vCenter=true&width=750&height=90&lines=PLAYER+ONE%3A+JEREMIA;FOUNDER+%40+JSTUDIO;LARAVEL+%2B+NEXT.JS+%2B+FILAMENT;PRESS+START+TO+CONTINUE_" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jstudio26&hide_border=true&background=F2F3F6&ring=C79A3F&fire=C79A3F&currStreakLabel=1E2C68&sideLabels=5A6178&currStreakNum=1E2C68&sideNums=1E2C68&dates=5A6178" />
+  <img src="https://img.shields.io/badge/ABOUT%20ME-1E2C68?style=for-the-badge" />
 </p>
 
----
+```
+LOADING JSTUDIO.EXE  [████████████████████████████████] 100%
 
-### 🐍 Kontribusi Setahun Terakhir
+class Jeremia:
+    title      = "Founder @ Jstudio"
+    class_type = "Full-Stack Developer"
+    level      = "Lv. 99"
+    hp         = "████████████ 100%"
+    weapons    = ["Laravel", "Filament", "Next.js", "Supabase", "FastAPI"]
+    quest_log  = [
+        "Bikin website untuk skripsi & tugas akhir mahasiswa",
+        "Bikin website untuk UMKM, cafe, firma hukum, gereja",
+        "Side-quest: Sistem Informasi Sekolah (absensi QR + rapor)",
+    ]
+    guild      = "Jstudio"
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TECH%20STACK-1E2C68?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,nextjs,react,tailwind,js,mysql,figma,vscode,git&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATS-1E2C68?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jstudio26&show_icons=true&hide_border=true&bg_color=1E2C68&title_color=C79A3F&icon_color=C79A3F&text_color=F2F3F6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jstudio26&layout=compact&hide_border=true&bg_color=1E2C68&title_color=C79A3F&text_color=F2F3F6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jstudio26&hide_border=true&background=1E2C68&ring=C79A3F&fire=C79A3F&currStreakLabel=C79A3F&sideLabels=F2F3F6&currStreakNum=F2F3F6&sideNums=F2F3F6&dates=AEB3C9" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GAME%3A%20CONTRIBUTION%20SNAKE-1E2C68?style=for-the-badge" />
+</p>
 
 <p align="center">
   <picture>
@@ -48,12 +60,20 @@
   </picture>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E2C68&height=100&section=footer" />
+  <img src="https://img.shields.io/badge/CONNECT-1E2C68?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jstudio26&color=1E2C68&style=flat&label=Profile+Views" />
+  <a href="https://instagram.com/Sangdevelopermuda"><img src="https://img.shields.io/badge/Instagram-1E2C68?style=for-the-badge&logo=instagram&logoColor=C79A3F" /></a>
+  <a href="https://tiktok.com/@Jstudiodev"><img src="https://img.shields.io/badge/TikTok-1E2C68?style=for-the-badge&logo=tiktok&logoColor=C79A3F" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/WhatsApp-1E2C68?style=for-the-badge&logo=whatsapp&logoColor=C79A3F" /></a>
+</p>
+
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E2C68&height=100&section=footer" />
+</picture>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jstudio26&color=1E2C68&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
