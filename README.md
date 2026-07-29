@@ -1,6 +1,5 @@
-<picture>
-  <img alt="header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E2C68,100:C79A3F&height=180&section=header&text=Jeremia&fontSize=42&fontColor=F2F3F6&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20Founder%20%40%20Jstudio&descAlignY=62&descSize=16" />
-</picture>
+<h1 align="center">Jeremia</h1>
+<p align="center">Full-Stack Developer · Founder @ Jstudio</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1500&color=1E2C68&center=true&vCenter=true&width=600&height=40&lines=Next.js+%2B+Tailwind+CSS;Supabase+%2B+FastAPI;Golang+%2B+Flutter" alt="Typing SVG" />
@@ -50,10 +49,6 @@ Founder of **Jstudio**, building web & mobile products end-to-end — from clien
 </p>
 
 ---
-
-<picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C79A3F,100:1E2C68&height=100&section=footer" />
-</picture>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jstudio26&color=1E2C68&style=flat-square&label=Profile+Views" />
