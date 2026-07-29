@@ -1,51 +1,33 @@
 <picture>
-  <img alt="header wave banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E2C68,100:C79A3F&height=210&section=header&text=JEREMIA%20//%20FULL-STACK%20DEV&fontSize=32&fontColor=F2F3F6&animation=fadeIn&fontAlignY=35" />
+  <img alt="header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E2C68,100:C79A3F&height=180&section=header&text=Jeremia&fontSize=42&fontColor=F2F3F6&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20Founder%20%40%20Jstudio&descAlignY=62&descSize=16" />
 </picture>
 
-<p align="center"><i>Currently grinding side quests in code.</i></p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=13&pause=1200&color=1E2C68&center=true&vCenter=true&width=750&height=90&lines=PLAYER+ONE%3A+JEREMIA;FOUNDER+%40+JSTUDIO;LARAVEL+%2B+NEXT.JS+%2B+FILAMENT;PRESS+START+TO+CONTINUE_" alt="Typing SVG" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ABOUT%20ME-1E2C68?style=for-the-badge" />
-</p>
-
-```
-LOADING JSTUDIO.EXE  [████████████████████████████████] 100%
-
-class Jeremia:
-    title      = "Founder @ Jstudio"
-    class_type = "Full-Stack Developer"
-    level      = "Lv. 99"
-    hp         = "████████████ 100%"
-    weapons    = ["Laravel", "Filament", "Next.js", "Supabase", "FastAPI"]
-    quest_log  = [
-        "Bikin website untuk skripsi & tugas akhir mahasiswa",
-        "Bikin website untuk UMKM, cafe, firma hukum, gereja",
-        "Side-quest: Sistem Informasi Sekolah (absensi QR + rapor)",
-    ]
-    guild      = "Jstudio"
-```
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TECH%20STACK-1E2C68?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1500&color=1E2C68&center=true&vCenter=true&width=600&height=40&lines=Next.js+%2B+Tailwind+CSS;Supabase+%2B+FastAPI;Golang+%2B+Flutter" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,nextjs,react,tailwind,js,mysql,figma,vscode,git&theme=dark" />
+  <a href="https://instagram.com/Sangdevelopermuda"><img src="https://img.shields.io/badge/Instagram-1E2C68?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://tiktok.com/@Jstudiodev"><img src="https://img.shields.io/badge/TikTok-1E2C68?style=flat-square&logo=tiktok&logoColor=white" /></a>
 </p>
 
-<br>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATS-1E2C68?style=for-the-badge" />
+### About
+
+Founder of **Jstudio**, building web & mobile products end-to-end — from client sites to internal school-management systems.
+
+- Websites untuk skripsi & tugas akhir mahasiswa
+- Websites untuk UMKM, cafe, firma hukum, gereja
+- Sistem Informasi Sekolah (absensi QR + rapor)
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,supabase,postgres,python,go,flutter,git,figma,vscode&theme=dark" />
 </p>
+
+### GitHub Stats
 
 <p align="center">
   <picture>
@@ -57,11 +39,7 @@ class Jeremia:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jstudio26&hide_border=true&background=1E2C68&ring=C79A3F&fire=C79A3F&currStreakLabel=C79A3F&sideLabels=F2F3F6&currStreakNum=F2F3F6&sideNums=F2F3F6&dates=AEB3C9" />
 </p>
 
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CONTRIBUTIONS-1E2C68?style=for-the-badge" />
-</p>
+### Contributions
 
 <p align="center">
   <picture>
@@ -71,28 +49,12 @@ class Jeremia:
   </picture>
 </p>
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution voxel city">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CONNECT-1E2C68?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://instagram.com/Sangdevelopermuda"><img src="https://img.shields.io/badge/Instagram-1E2C68?style=for-the-badge&logo=instagram&logoColor=C79A3F" /></a>
-  <a href="https://tiktok.com/@Jstudiodev"><img src="https://img.shields.io/badge/TikTok-1E2C68?style=for-the-badge&logo=tiktok&logoColor=C79A3F" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/WhatsApp-1E2C68?style=for-the-badge&logo=whatsapp&logoColor=C79A3F" /></a>
-</p>
-
-<br>
+---
 
 <picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C79A3F,100:1E2C68&height=110&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C79A3F,100:1E2C68&height=100&section=footer" />
 </picture>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jstudio26&color=1E2C68&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Jstudio26&color=1E2C68&style=flat-square&label=Profile+Views" />
 </p>
