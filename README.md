@@ -10,10 +10,18 @@
 
 ---
 
-I build web applications end to end — front end, API, and database — and take on
-machine-learning projects when a problem needs one. Currently in my third year of
-a Computer Science degree, freelancing through **Jstudio**, and previously a
-full-stack developer intern at **PT PLN (Persero) UPT Manado**.
+I'm a full-stack developer and Computer Science student based in Manado, Indonesia.
+
+Most of my work is web: I'm comfortable across React/Next.js and Vue/Nuxt on the
+front end, with Node, Django, or FastAPI and a PostgreSQL/Supabase database behind
+them. I like owning a feature from the schema to the UI. Outside of web, I've
+trained an object-detection model for a research project and keep exploring
+applied ML.
+
+I run **Jstudio** (PT Jstudio Kreasi Digital), where I've shipped websites and
+internal tools for local businesses, a law firm, and university projects. I also
+spent time as a full-stack developer intern at **PT PLN (Persero) UPT Manado**,
+building an internal system to track document warranties and expirations.
 
 ### Tech Stack
 
