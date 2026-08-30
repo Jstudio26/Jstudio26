@@ -89,12 +89,12 @@ building an internal system to track document warranties and expirations.
 ### GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jstudio26&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=1E2C68&icon_color=C79A3F&text_color=6A737D&bg_color=00000000" alt="GitHub stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jstudio26&show_icons=true&hide_border=true&hide=prs,issues&include_all_commits=true&count_private=true&title_color=1E2C68&icon_color=C79A3F&text_color=6A737D&bg_color=00000000" alt="GitHub stats">
   <img height="160" src="https://streak-stats.demolab.com/?user=Jstudio26&hide_border=true&background=00000000&stroke=1E2C68&ring=C79A3F&fire=C79A3F&currStreakLabel=1E2C68&sideLabels=6A737D&currStreakNum=1E2C68&sideNums=1E2C68&dates=9BA1A6" alt="Streak">
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jstudio26&layout=compact&hide_border=true&langs_count=8&title_color=1E2C68&text_color=6A737D&bg_color=00000000" alt="Top languages">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jstudio26&layout=compact&hide_border=true&langs_count=8&hide=css&size_weight=0.5&count_weight=0.5&title_color=1E2C68&text_color=6A737D&bg_color=00000000" alt="Top languages">
 </p>
 
 ### Contribution Graph
