@@ -1,55 +1,60 @@
-<h1 align="center">Jeremia</h1>
-<p align="center">Full-Stack Developer · Founder @ Jstudio</p>
+## Jeremia Paduli
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1500&color=1E2C68&center=true&vCenter=true&width=600&height=40&lines=Next.js+%2B+Tailwind+CSS;Supabase+%2B+FastAPI;Golang+%2B+Flutter" alt="Typing SVG" />
-</p>
+Full-stack developer and third-year Computer Science student in Manado, Indonesia.
+I build web applications end to end — front end, API, and database — and take on
+machine-learning projects when a problem needs one.
 
-<p align="center">
-  <a href="https://instagram.com/Sangdevelopermuda"><img src="https://img.shields.io/badge/Instagram-1E2C68?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://tiktok.com/@Jstudiodev"><img src="https://img.shields.io/badge/TikTok-1E2C68?style=flat-square&logo=tiktok&logoColor=white" /></a>
-</p>
+Through **Jstudio** I've delivered sites and internal tools for small businesses,
+a law firm, and student projects. I also worked as a full-stack developer intern
+at PT PLN (Persero) UPT Manado, building an internal document-monitoring system.
 
 ---
-
-### About
-
-Founder of **Jstudio**, building web & mobile products end-to-end — from client sites to internal school-management systems.
-
-- Websites untuk skripsi & tugas akhir mahasiswa
-- Websites untuk UMKM, cafe, firma hukum, gereja
-- Sistem Informasi Sekolah (absensi QR + rapor)
 
 ### Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,supabase,postgres,python,go,flutter,git,figma,vscode&theme=dark" />
-</p>
+**Languages** — TypeScript, JavaScript, Python, PHP, SQL
 
-### GitHub Stats
+**Frontend** — React, Next.js, Vue 3, Nuxt 3, Tailwind CSS
 
-<p align="center">
-  <picture>
-    <img src="/github-metrics.svg" alt="GitHub Metrics: terminal + isometric contribution calendar">
-  </picture>
-</p>
+**Backend** — Node.js, Express, Django, FastAPI
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jstudio26&hide_border=true&background=1E2C68&ring=C79A3F&fire=C79A3F&currStreakLabel=C79A3F&sideLabels=F2F3F6&currStreakNum=F2F3F6&sideNums=F2F3F6&dates=AEB3C9" />
-</p>
+**Data & ML** — PostgreSQL, Supabase, YOLOv8 / Ultralytics, Pandas
 
-### Contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jstudio26/Jstudio26/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jstudio26/Jstudio26/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation kontribusi github" src="https://raw.githubusercontent.com/Jstudio26/Jstudio26/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+**Tooling** — Git, Vercel, Figma
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jstudio26&color=1E2C68&style=flat-square&label=Profile+Views" />
-</p>
+### Featured Projects
+
+**[Law Firm Platform](https://github.com/Jstudio26/Firma_hukum)**
+Full-stack site for a law firm — public marketing pages, a client portal for
+matter and document access, and an admin CMS with role-based access and audit
+logging.
+`Nuxt 3` · `Vue 3` · `Tailwind CSS` · `PostgreSQL`
+
+**[Fish Species Detection](https://github.com/Jstudio26/Tugas-Akhir-ML-2025)**
+Object-detection model that identifies five freshwater fish species from images,
+trained and evaluated on a custom dataset. Academic final project.
+`Python` · `YOLOv8` · `Ultralytics`
+
+**[SiJAGAD — Warranty Monitoring](https://github.com/Jstudio26/pln-unified-system)**
+Internal system built during my internship at PT PLN (Persero) UPT Manado to
+track warranty letters, flag upcoming expirations, and send scheduled email
+reminders.
+`Next.js` · `FastAPI` · `Supabase`
+
+---
+
+### Currently
+
+- Building the law firm platform — adding tests and a deployment pipeline
+- Turning past Jstudio client work into documented case studies
+- Adding a small inference web app to the fish-detection project
+
+---
+
+### Connect
+
+- Website — [jstudio.site](https://jstudio.site)
+- LinkedIn — [jeremia-david](https://www.linkedin.com/in/jeremia-david-523608383)
+- Email — jeremia.paduli@gmail.com
